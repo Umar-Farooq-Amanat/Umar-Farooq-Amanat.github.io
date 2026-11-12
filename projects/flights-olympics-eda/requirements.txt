@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+seaborn
+nycflights13
+jupyter
